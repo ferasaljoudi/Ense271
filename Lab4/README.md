@@ -10,4 +10,4 @@ All the images are free and has no copyright.
 All the texts were gotten from chatgpt.
 
 ## Link to Figma project:
-<a href = https://www.figma.com/proto/RTfBRmggRnzYyuGRDcAzcT/Untitled?type=design&node-id=2-33&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A33&show-proto-sidebar=1>Click here</a>
+<a href = "https://www.figma.com/proto/RTfBRmggRnzYyuGRDcAzcT/Untitled?type=design&node-id=2-33&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A33&show-proto-sidebar=1">Click here</a>
