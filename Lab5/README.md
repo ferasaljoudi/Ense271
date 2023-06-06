@@ -7,6 +7,5 @@
 ## Then I created a wordpress site in Local for the Persona created for a Job Hunting Application
 
 
-* All the images used in Figma and website are free and has no copyright (From Unsplash website; link below).
-https://unsplash.com/
+* All the images used in Figma and website are free and has no copyright (From Unsplash website; (https://unsplash.com/)).
 * All the texts were gotten from chatgpt.
