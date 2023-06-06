@@ -9,11 +9,12 @@
 * Home page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/Home-Page.pdf" >Click here</a>
 * About page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/About-Page.pdf" >Click here</a>
 * Blog page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/Blog-Page.pdf" >Click here</a>
+  * First blog page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/First-Blog-Page.pdf" >Click here</a>
+  * Second blog page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/Second-Blog-Page.pdf" >Click here</a>
+  * Third blog page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/Third-Blog-Page.pdf" >Click here</a>
 * Goals page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/Goals-Page.pdf" >Click here</a>
 * Quotations page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/Quotations-Page.pdf" >Click here</a>
-* First blog page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/First-Blog-Page.pdf" >Click here</a>
-* Second blog page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/Second-Blog-Page.pdf" >Click here</a>
-* Third blog page <a href = "https://github.com/ferasaljoudi/Ense271/blob/main/Lab5/Website-in-pdf/Third-Blog-Page.pdf" >Click here</a>
+
 
 * All the images used in Figma and website are free and has no copyright (From Unsplash website; (https://unsplash.com/)).
 * All the texts were gotten from chatgpt.
