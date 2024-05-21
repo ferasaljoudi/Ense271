@@ -3,7 +3,9 @@
 </div>
 <br>
 
-Building a WordPress website for a Persona created for a Job Hunting Application:
+<div align = "center">
+Building a WordPress website for a Persona created for a Job Hunting Application
+</div>
 
 <br>
 <div style="width: 100%;">
@@ -11,7 +13,9 @@ Building a WordPress website for a Persona created for a Job Hunting Application
 </div>
 <br>
 
+<div align = "center">
 This is a lab assignment for one of my second year classes (ENSE271). The purpose of this assignment is to create a Persona using Figma for a Job Hunting Application, and then create a Wordpress site in Local for it.
+</div>
 
 <br>
 <div style="width: 100%;">
