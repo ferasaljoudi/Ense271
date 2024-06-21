@@ -35,10 +35,11 @@ This is a lab assignment for one of my second year classes (ENSE271). The purpos
 
 <div align = "center">
 
-  [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
-  [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+  <a href="https://wordpress.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Middle/wordpress.svg" alt="WordPress"></a>
+  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/WebDevelopment/Right/figma.svg" alt="Figma"></a>
 
 </div>
+
 
 <br>
 <div style="width: 100%;">
