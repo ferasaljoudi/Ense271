@@ -24,6 +24,8 @@ This is a lab assignment for one of my second year classes (ENSE271). The purpos
 <br>
 
 <div align="center">
+    <a href="https://sophiarose.csproject.org/">Sophia Portfolio</a>
+    <br>
     <a href="#"><img src="DemoGif/sophiaRose.gif" alt="Demo Gif"></a>
 </div>
 
