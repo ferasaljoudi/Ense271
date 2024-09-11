@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/SVGsHeader/sophiaPortfolio.svg" alt="Sophia Portfolio" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/SVGsHeader/sophiaPortfolio.svg" alt="Sophia Portfolio" style="width: 100% "></a>
 </div>
 <br>
 
